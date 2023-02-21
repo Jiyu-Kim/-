@@ -1,2 +1,21 @@
 # data-analysis-of-abandoned-dog
 <img src="./image capture/20230221_172048_1.png">
+<img src="./image capture/20230221_172048_2.png">
+<img src="./image capture/20230221_172048_3.png">
+<img src="./image capture/20230221_172048_4.png">
+<img src="./image capture/20230221_172048_5.png">
+<img src="./image capture/20230221_172048_6.png">
+<img src="./image capture/20230221_172048_7.png">
+<img src="./image capture/20230221_172048_8.png">
+<img src="./image capture/20230221_172048_9.png">
+<img src="./image capture/20230221_172048_10.png">
+<img src="./image capture/20230221_172048_11.png">
+<img src="./image capture/20230221_172048_12.png">
+<img src="./image capture/20230221_172048_13.png">
+<img src="./image capture/20230221_172048_14.png">
+<img src="./image capture/20230221_172048_15.png">
+<img src="./image capture/20230221_172048_16.png">
+<img src="./image capture/20230221_172048_17.png">
+<img src="./image capture/20230221_172048_18.png">
+<img src="./image capture/20230221_172048_19.png">
+<img src="./image capture/20230221_172048_20.png">
